@@ -10,7 +10,6 @@ class Task10
 
         Console.WriteLine("Преобразованная строка: " + uppercaseInput);
     }
-
     static string ConvertToUppercase(string input)
     {
         // Создаем пустую строку, в которую будем добавлять большие буквы
